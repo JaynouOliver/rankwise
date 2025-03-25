@@ -25,13 +25,13 @@ commits = [
 
 Sort using RankWise:
 
-
+```
 from rankwise.llm_sort import llm_bubble_sort
 
 sorted_commits = llm_bubble_sort(commits)
 print(sorted_commits)
 
-
+```
 ## Contributing
 
 We welcome contributions! Please submit pull requests or report issues on GitHub.
