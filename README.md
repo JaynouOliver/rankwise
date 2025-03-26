@@ -1,6 +1,11 @@
 # rankwise
+
+![Screenshot Mar 26 2025 Remove bg](https://github.com/user-attachments/assets/ad7a6c14-204d-4522-8ace-45cddb67f76d)
+
+
 RankWise is a Python library that leverages large language models to evaluate and sort data based on quality rather than quantity. Applicable across diverse domains, RankWise provides a universal framework for assessing code, text, and multimedia, ensuring fair and insightful evaluations.
 
+![image](https://github.com/user-attachments/assets/ef67ddfe-d16e-47a9-a93e-4cd52dfb03e3)
 
 
 ## Usage
